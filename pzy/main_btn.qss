@@ -1,0 +1,50 @@
+
+QPushButton {  
+    /* 前景色 */  
+    color:black;  
+    /* 背景色 */  
+    background-color:rgb(250,250,250);  
+    /* 边框风格 */  
+    border-style:outset;  
+    /* 边框宽度 */  
+    border-width:0px;  
+    /* 边框颜色 */  
+    border-color:rgb(10,45,110);  
+    /* 边框倒角 */  
+    border-radius:10px;  
+    /* 字体 */  
+    font:bold 24px; 
+    /* 控件最小宽度 */  
+    min-width:45px;  
+    /* 控件最小高度 */  
+    min-height:36px;  
+    /* 内边距 */  
+    padding:14px;  
+}  
+
+/* 鼠标按下时的效果 */  
+QPushButton:hover {  
+    /* 改变背景色 */  
+    background-color:rgb(240,240,240);  
+    /* 改变边框风格 */  
+    border-style:inset;  
+}
+
+/* 鼠标按下时的效果 */  
+QPushButton:pressed {  
+    /* 改变背景色 */  
+    background-color:rgb(230,230,230);  
+    /* 改变边框风格 */  
+    border-style:inset;  
+    /* 使文字有一点移动 */  
+    padding-left:6px;  
+    padding-top:6px;  
+
+}
+
+/* 按钮样式 */  
+QPushButton:flat {  
+    border:2px solid red;  
+}  
+
+

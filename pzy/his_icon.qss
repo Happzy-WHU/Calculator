@@ -1,0 +1,32 @@
+QPushButton {
+	
+    min-width:30px;  
+    min-height:30px;  
+    max-width:30px;  
+    max-height:30px;  
+	border:none;
+	background-image: url("history.png") ;
+}
+
+QPushButton::hover{
+	background-image: url("history_hover.png");
+}
+
+QPushButton::pressed 
+{
+	background-image: url("history.png") ;
+}
+
+QComboBox {
+	min-width:100px;  
+    min-height:25px;  
+    max-width:100px;  
+    max-height:25px;
+	border: 2px solid black;
+	border-radius: 3px;
+	padding: 1px 18px 1px 3px;
+
+	background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
+	font: 14pt "»ªÎÄçúçê";
+}

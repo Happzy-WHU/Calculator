@@ -1,0 +1,10 @@
+
+
+QLabel{
+	 border: 2px solid black;
+    border-radius: 4px;
+    padding: 14px;
+	background-color:rgb(255,255,255); 
+	/* ×ÖÌå */  
+    font:bold 24px;
+}

@@ -1,0 +1,104 @@
+{
+    "history": [
+        {
+            "id": 1,
+            "label_ans": "11",
+            "label_str": "20-9="
+        },
+        {
+            "id": 2,
+            "label_ans": "2",
+            "label_str": "11-9="
+        },
+        {
+            "id": 3,
+            "label_ans": "-7",
+            "label_str": "2-9="
+        },
+        {
+            "id": 4,
+            "label_ans": "-16",
+            "label_str": "-7-9="
+        },
+        {
+            "id": 5,
+            "label_ans": "-25",
+            "label_str": "-16-9="
+        },
+        {
+            "id": 6,
+            "label_ans": "-34",
+            "label_str": "-25-9="
+        },
+        {
+            "id": 7,
+            "label_ans": "-43",
+            "label_str": "-34-9="
+        },
+        {
+            "id": 8,
+            "label_ans": "-52",
+            "label_str": "-43-9="
+        },
+        {
+            "id": 9,
+            "label_ans": "-468",
+            "label_str": "(-52)*9="
+        },
+        {
+            "id": 10,
+            "label_ans": "-4,212",
+            "label_str": "-468*9="
+        },
+        {
+            "id": 11,
+            "label_ans": "-36",
+            "label_str": "-4,212*9="
+        },
+        {
+            "id": 12,
+            "label_ans": "-324",
+            "label_str": "-36*9="
+        },
+        {
+            "id": 13,
+            "label_ans": "-2,916",
+            "label_str": "-324*9="
+        },
+        {
+            "id": 14,
+            "label_ans": "-18",
+            "label_str": "-2,916*9="
+        },
+        {
+            "id": 15,
+            "label_ans": "-162",
+            "label_str": "-18*9="
+        },
+        {
+            "id": 16,
+            "label_ans": "-1,458",
+            "label_str": "-162*9="
+        },
+        {
+            "id": 17,
+            "label_ans": "-9",
+            "label_str": "-1,458*9="
+        },
+        {
+            "id": 18,
+            "label_ans": "-81",
+            "label_str": "-9*9="
+        },
+        {
+            "id": 19,
+            "label_ans": "-729",
+            "label_str": "-81*9="
+        },
+        {
+            "id": 20,
+            "label_ans": "2,916",
+            "label_str": "324*9="
+        }
+    ]
+}
